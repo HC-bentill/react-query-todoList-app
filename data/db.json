@@ -1109,54 +1109,6 @@
       "id": 192,
       "title": "ut quas possimus exercitationem sint voluptates",
       "completed": false
-    },
-    {
-      "userId": 10,
-      "id": 194,
-      "title": "sed ut vero sit molestiae",
-      "completed": false
-    },
-    {
-      "userId": 10,
-      "id": 196,
-      "title": "consequuntur aut ut fugit similique",
-      "completed": true
-    },
-    {
-      "userId": 10,
-      "id": 197,
-      "title": "dignissimos quo nobis earum saepe",
-      "completed": true
-    },
-    {
-      "userId": 1,
-      "title": "New todo!",
-      "completed": false,
-      "id": 201
-    },
-    {
-      "userId": 1,
-      "title": "Learn stuff",
-      "completed": false,
-      "id": 202
-    },
-    {
-      "userId": 1,
-      "title": "Hey!",
-      "completed": false,
-      "id": 203
-    },
-    {
-      "userId": 1,
-      "title": "sds",
-      "completed": true,
-      "id": 204
-    },
-    {
-      "userId": 1,
-      "title": "new item",
-      "completed": true,
-      "id": 205
     }
   ]
 }
